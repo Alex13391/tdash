@@ -4,3 +4,4 @@ seaborn
 json
 dash_bootstrap_components
 numpy
+gunicorn
