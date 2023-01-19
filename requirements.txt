@@ -1,0 +1,6 @@
+dash==2.6.1
+pandas
+seaborn
+json
+dash_bootstrap_components
+numpy
