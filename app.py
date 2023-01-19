@@ -79,7 +79,7 @@ dict_abreviaturas_organos = {
      '-': ''
 }
 
-path_file = '../0 Datos/0 RAW/web-catalogo_procedimientos_y_tramites_05-12-2022.xlsx'
+path_file = 'web-catalogo_procedimientos_y_tramites_05-12-2022.xlsx'
 file = pd.ExcelFile(path_file)
 # pd.read_excel(,sheet_name=1)
 
